@@ -1,19 +1,13 @@
-# 🦌 Proyek Deteksi Rusa (Deer Detection Project)
+# 🤖 Belajar Computer Vision
 
-Ini adalah proyek studi saya dalam mendalami **Computer Vision**, sebuah cabang menarik dari Data Science dan AI. Tujuan proyek ini adalah untuk membangun dan melatih sebuah model *machine learning* yang mampu mengenali dan melokalisasi objek "rusa" dalam sebuah gambar.
-
-Proyek ini merupakan perjalanan belajar saya untuk memahami bagaimana komputer dapat "melihat" dan menginterpretasikan dunia visual.
+Repositori ini adalah catatan perjalanan saya dalam mempelajari dunia Computer Vision.
 
 ---
-## 🤖 Teknologi & Konsep yang Digunakan
-* **Bahasa Pemrograman**: Python
-* **Library Utama**: TensorFlow, Keras, OpenCV, Matplotlib
-* **Konsep Inti**:
-    * Deteksi Objek (*Object Detection*)
-    * Jaringan Saraf Konvolusional (*Convolutional Neural Networks* / CNN)
-    * Pra-pemrosesan Gambar (*Image Preprocessing*)
-    * Pelatihan & Evaluasi Model
+## Tujuan Pembelajaran
+Tujuan utama repositori ini adalah sebagai portofolio dan jurnal pribadi untuk mendokumentasikan semua kode, proyek, dan pemahaman baru yang saya dapatkan selama proses belajar.
 
 ---
-## 🎯 Status Proyek
-Saat ini proyek sedang dalam tahap pengembangan sebagai bagian dari eksplorasi dan pembelajaran saya di bidang *Computer Vision*.
+## Apa itu Computer Vision?
+Secara sederhana, **Computer Vision** adalah cabang dari kecerdasan buatan (AI) yang melatih komputer untuk "melihat" dan memahami informasi dari data visual, seperti gambar dan video.
+
+Tujuannya adalah agar mesin bisa mengidentifikasi objek, wajah, dan aktivitas, sama seperti cara manusia melihat dan menginterpretasi dunia di sekitarnya.
