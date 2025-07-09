@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Deer']
+
+roboflow:
+  workspace: citra-zhzbq
+  project: project-uas-w8fwi
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/citra-zhzbq/project-uas-w8fwi/dataset/2
