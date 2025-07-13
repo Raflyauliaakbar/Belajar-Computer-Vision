@@ -1,8 +1,6 @@
 Proyek Deteksi Kucing dengan YOLOv8
 Proyek ini adalah implementasi dari model Object Detection menggunakan arsitektur YOLOv8 untuk mendeteksi objek "Kucing" pada gambar. Proyek ini mencakup seluruh alur kerja machine learning, mulai dari pengumpulan data, anotasi, training, hingga evaluasi model.
 
-(<-- Ganti dengan screenshot hasil prediksi terbaik Anda)
-
 📖 Latar Belakang
 Proyek ini dibuat sebagai bagian dari tugas Ujian Akhir Semester untuk mata kuliah Pengolahan Citra. Tujuannya adalah untuk memahami dan menerapkan konsep-konsep Computer Vision secara praktis, khususnya dalam bidang deteksi objek.
 
